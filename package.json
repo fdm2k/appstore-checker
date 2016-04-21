@@ -1,0 +1,16 @@
+{
+  "name": "appstore-checker",
+  "version": "1.0.0",
+  "description": "An app to check both Apple iTunes and Google Play stores for app information.",
+  "main": "index.js",
+  "dependencies": {
+    "app-store-validator": "^1.0.3",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Sando",
+  "license": "ISC"
+}

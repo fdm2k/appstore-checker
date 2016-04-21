@@ -1,0 +1,37 @@
+# Environment
+.env*
+!.env.example
+
+# Packages
+node_modules
+bower_components
+
+# Npm
+*.log
+
+
+# Test
+api/coverage
+
+# Dist (for documentation)
+dist
+
+# Windows files
+Thumbs.db
+
+# OSX files
+.DS_Store
+
+# Development Environments
+*.sublime-workspace
+*.todo
+.tmp*
+
+# Vim swap files
+*.swp
+*.swo
+*.swn
+
+# iOS User Files
+*.xcuserdatad
+*.old
